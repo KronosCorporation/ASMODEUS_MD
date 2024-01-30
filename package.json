@@ -1,7 +1,7 @@
-{
-  "name": "asmodeus-md",
+    {
+  "name": "ani_mx_scans-md",
   "version": "1.2.0",
-  "description": "Bot promocional del proyecto Asmodeusby❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞",
+  "description": "Bot promocional del proyecto 🌎ANI MX SCANS🌏",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -17,14 +17,14 @@
   },
   "homepage": "https://www.facebook.com/ANIMxSCANS",
   "author": {
-    "name": "Engel"
+    "name": "Rey Endymion"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KronosCorporation/Asmodeus-MD.git"
+    "url": "git+https://github.com/ReyEndymion/ANI_MX_SCANS-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/KronosCorporation/Asmodeus-MD/issues"
+    "url": "https://github.com/ReyEndymion/ANI_MX_SCANS-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
@@ -102,4 +102,4 @@
     "eslint": "^8.45.0",
     "eslint-config-google": "^0.14.0"
   }
-}
+    }
