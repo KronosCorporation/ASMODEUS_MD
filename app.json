@@ -1,0 +1,34 @@
+{
+  "name": "ASMODEUS",
+  "description": "Bot promocional del proyecto ASMODEUSby❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞",
+  "repository": "https://github.com/KronosCorporation/Asmodeus-MD",
+  "logo": "https://raw.githubusercontent.com/KronosCorporation/Asmodeus-MD/master/Menu2.jpg",
+  "keywords": [
+    "nodejs",
+  	"javascript",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "spanish",
+    "whatsapp-bot",
+    "termux",
+    "shadow",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-automation"],
+    "whatsapp-md",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
+}
